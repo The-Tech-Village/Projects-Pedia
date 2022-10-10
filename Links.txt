@@ -1,5 +1,6 @@
 # Add your Site Links Here->
-|
-|
-|
+|[ The Tech Village](https://github.com/The-Tech-Village)
+| [The portfolio](https://satyamrs00.github.io)
+| [The manga seller](https://teddy1404.github.io/mangaseller/)
+| [Tindog](https://teddy1404.github.io/tindog/)
 ->
