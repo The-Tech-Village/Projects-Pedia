@@ -1,9 +1,9 @@
-# Projects-Pedia
-A repo for finding the project you need 
+# Project Pedia
+A repository for finding the project you need 
 
 ## Steps to follow :scroll:
 
-### Tip : Complete this process in GitHub ( In your browser 🌐)
+### Tips : Complete this process in GitHub ( In your browser 🌐)
 
 ```mermaid
 flowchart LR
@@ -16,6 +16,6 @@ flowchart LR
  
  ### Star The Repository :star2:
 
-## Contributing
+## Contribution
 If you think you can make an improvement don't hesitate to open a pull request.
 [Contribute Guidelines](CONTRIBUTING.md)
