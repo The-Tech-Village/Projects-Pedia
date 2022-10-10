@@ -1,6 +1,7 @@
 # Project Pedia
 A repository for finding the project you need 
 
+### Star The Repository :star2:
 ## Steps to follow :scroll:
 
 ### Tips : Complete this process in GitHub ( In your browser 🌐)
@@ -13,8 +14,6 @@ flowchart LR
     commit -->|Finally|creatpr((Create a Pull Request))
     
  ```
- 
- ### Star The Repository :star2:
 
 ## Contribution
 If you think you can make an improvement don't hesitate to open a pull request.
