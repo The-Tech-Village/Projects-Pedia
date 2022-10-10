@@ -1,5 +1,5 @@
 # Projects-Pedia
-A repo for finding the project you need 
+A repository for finding the project you need 
 
 ## Steps to follow :scroll:
 
@@ -16,6 +16,6 @@ flowchart LR
  
  ### Star The Repository :star2:
 
-## Contributing
+## Contribution
 If you think you can make an improvement don't hesitate to open a pull request.
 [Contribute Guidelines](CONTRIBUTING.md)
