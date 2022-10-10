@@ -1,6 +1,12 @@
 # Add your Site Links Here->
-|[ The Tech Village](https://github.com/The-Tech-Village)
-| [The portfolio](https://satyamrs00.github.io)
-| [The manga seller](https://teddy1404.github.io/mangaseller/)
-| [Tindog](https://teddy1404.github.io/tindog/)
+
+[ The Tech Village](https://github.com/The-Tech-Village)
+[The portfolio](https://satyamrs00.github.io)
+[The manga seller](https://teddy1404.github.io/mangaseller/)
+[Tindog](https://teddy1404.github.io/tindog/)
+[ 1000 Projects ](https://1000projects.org/)
+[ Mini Project Ideas ](https://mini-projects.in/)
+[ Project Topics ](https://www.projecttopics.info/)
+
+
 ->
