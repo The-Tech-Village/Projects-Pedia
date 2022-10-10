@@ -18,4 +18,4 @@ flowchart LR
 
 ## Contributing
 If you think you can make an improvement don't hesitate to open a pull request.
-[Contribute Guidelines]()
+[Contribute Guidelines](CONTRIBUTING.md)
